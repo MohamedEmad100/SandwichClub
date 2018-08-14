@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Imports/Expand Static Import" />
+    <ignoreAction name="Refactorings/Introduce local variable" />
+    <ignoreAction name="Declaration/Create Test" />
+    <ignoreAction name="Other/Make Call Chain Into Call Sequence" />
+    <ignoreAction name="Declaration/Move assignment to field declaration" />
+    <ignoreAction name="Imports/Add On Demand Static Import" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+  </component>
+</application>
