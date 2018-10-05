@@ -5,6 +5,7 @@
         <added pattern="com.wdullaer.materialdatetimepicker.date.DatePickerDialog.newInstance(callBack,year,monthOfYear,dayOfMonth)" />
         <added pattern="android.app.DialogFragment.show(manager,tag)" />
         <added pattern="com.kingtag.merchant.views.custom.dialog.CreateNewItemDialog.getInstance(title,strItemNameEN,strItemNameAR,itemValue,listener)" />
+        <added pattern="es.dmoral.toasty.Toasty.success(context,message,duration,withIcon)" />
       </blacklist>
     </blacklists>
   </component>
