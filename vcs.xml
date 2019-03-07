@@ -70,11 +70,12 @@
           <option name="url" value="https://github.com/udacity/sandwich-club-starter-code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="M-Emad" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Android\AndroidstudioProjects\Nanodegree\Projects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
